@@ -12,4 +12,4 @@ Liste per gestire al meglio la mia collezione di carte Pokémon TCG
 
 ## I miei "doppioni"
 
-[Cliccando qui](https://trainax.github.io/pkmn-tcg-lists/doubles.md) è possibile accedere ad una pagina con delle tabelle elencanti le carte che possiedo e che posso scambiare.
+[Cliccando qui](https://trainax.github.io/pkmn-tcg-lists/doubles) è possibile accedere ad una pagina con delle tabelle elencanti le carte che possiedo e che posso scambiare.
