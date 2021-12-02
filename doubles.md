@@ -63,6 +63,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
+|  |  |  |  |  |  |
 
 ### Oscurità
 
@@ -74,6 +75,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
+|  |  |  |  |  |  |
 
 ### Incolore
 
@@ -87,11 +89,13 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
+|  |  |  |  |  |  |
 
 ### Drago
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
+|  |  |  |  |  |  |
 
 ## Altre carte
 
