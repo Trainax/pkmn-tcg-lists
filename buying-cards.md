@@ -4,7 +4,7 @@ Sono interessato ad aggiungere alla mia collezione tutte le carte che non sono g
 
 Le carte devono soddisfare i seguenti requisiti:
 
-- Lingua: :it: Italiano o :uk: Inglese.
+- Lingua: 🇮🇹 Italiano o 🇬🇧 Inglese.
 - Condizioni: Near Mint o Mint.
 
 ## Prezzi
@@ -18,8 +18,8 @@ Sono interessato a comprare carte singole e mazzi di carte a prezzi di [Cardmark
 1. Andare su [Cardmarket](https://www.cardmarket.com/it/Pokemon)
 2. Cercare la carta
 3. Tramite la funzione filtro selezionare:
-    - Posizione del venditore: :it: Italia
-    - Lingua: *lingua della carta* (:it: Italiano o :uk: Inglese)
+    - Posizione del venditore: 🇮🇹 Italia
+    - Lingua: *lingua della carta* (🇮🇹 Italiano o 🇬🇧 Inglese)
     - Condizione minima: *condizioni della carta* (Near Mint o Mint)
 4. Il valore è quello indicato nella colonna "Offerta" della prima riga dei risultati.
 
