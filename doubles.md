@@ -58,6 +58,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 | Kirlia | 060/198 | Unlimited | Regno Glaciale | 1 |  |
 | Woobat | 50/114 | Unlimited | Nero e Bianco | 1 |  |
 | Espeon | 48/108 | Unlimited | Esploratori delle Tenebre | 1 |  |
+| Sinistea | 082/189 | Unlimited | Fiamme Oscure | 1 |  |
 
 ### Lotta
 
@@ -111,5 +112,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Energia Erba | - | Non-holo |Energie Spada e Scudo | 1 |  |
-| Energia Metallo | - | Non-holo | Energie Spada e Scudo | 2 |  |
+| Energia Erba | - | Non-holo | Energie Spada e Scudo | 2 |  |
+| Energia Metallo | - | Non-holo | Energie Spada e Scudo | 4 |  |
+| Energia Oscurità | - | Non-holo | Energie Spada e Scudo | 1 |  |
+| Energia Lotta | - | Non-holo | Energie Spada e Scudo | 2 |  |

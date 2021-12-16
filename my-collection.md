@@ -7,6 +7,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 ### Collegamenti rapidi alle espansioni presenti nella mia collezione
 
 - [Serie Spada & Scudo](#serie-spada--scudo)
+  - [Colpo Fusione](#colpo-fusione)
   - [Regno Glaciale](#regno-glaciale)
   - [Voltaggio Sfolgorante](#voltaggio-sfolgorante)
   - [Fiamme Oscure](#fiamme-oscure)
@@ -31,13 +32,26 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 
 ## Serie Spada & Scudo
 
+### Colpo Fusione
+
+| Nome | Numero | Tipo | Variante | Rarità | Note |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| Breloom | 005/264 | Erba Fase 1 | Unlimited | Non Comune |  |
+| Huntail | 066/264 | Acqua Fase 1 | Unlimited | Rara |  |
+| Wooloo | 222/264 | Incolore Base | Unlimited | Comune |  |
+| Scambiatore Incrociato | 230/264 | Allenatore - Strumento | Non Comune |  |
+
+
 ### Regno Glaciale
 
 | Nome | Numero | Tipo | Variante | Rarità | Note |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | Bounsweet | 013/198 | Erba Base | Unlimited | Comune |  |
+| Steenee | 014/198 | Erba Fase 1 | Unlimited | Non Comune |  |
 | Castform Forma Nuvola di Neve | 034/198 | Acqua Base | Unlimited | Comune |  |
+| Slowpoke di Galar | 054/198 | Psico Base | Unlimited | Comune |  |
 | Kirlia | 060/198 | Psico Fase 1 | Unlimited | Non Comune |  |
+| Shuppet | 062/198 | Psico Base | Unlimited | Comune |  |
 | Golett | 065/198 | Psico Base | Unlimited | Comune |  |
 | Slurpuff | 068/198 | Psico Fase 1 | Unlimited | Rara |  |
 | Hatenna | 071/198 | Psico Base | Unlimited | Comune |  |
@@ -59,13 +73,19 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | Karrablast | 008/189 | Erba Base | Unlimited | Comune |  |
 | Combusken | 023/189 | Fuoco Fase 1 | Unlimited | Non Comune |  |
+| Feebas | 038/189 | Acqua Base | Unlimited | Comune |  |
+| Wishiwashi | 050/189 | Acqua Base | Unlimited | Comune |  |
 | Mareanie | 051/189 | Acqua Base | Unlimited | Comune |  |
 | Toxel | 062/189 | Lampo Base | Unlimited | Comune |  |
+| Granbull | 071/189 | Psico Fase 1 | Unlimited | Rara |  |
 | Sinistea | 082/189 | Psico Base | Unlimited | Comune |  |
 | Polteageist | 083/189 | Psico Fase 1 | Unlimited | Comune |  |
 | Diggersby | 096/189 | Lotta Fase 1 | Unlimited | Rara |  |
+| Passimian | 097/189 | Lotta Base | Unlimited | Comune |  |
 | Meltan | 129/189 | Metallo Base | Unlimited | Comune |  |
+| Cufant | 131/189 | Metallo Base | Unlimited | Comune |  |
 | Ursaring | 139/189 | Incolore Fase 1 | Unlimited | Non Comune |
+| Rose Tower | 169/189 | Allenatore - Stadio | Unlimited | Non Comune |  |
 
 ### Fragore Ribelle
 
@@ -225,3 +245,4 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | Energia Lotta | - | Energia Base | Non-holo | - |  |
 | Energia Oscurità | - | Energia Base | Non-holo | - |  |
 | Energia Metallo | - | Energia Base | Non-holo | - |  |
+| Energia Lampo | - | Energia Base | Non-holo | - |  |
