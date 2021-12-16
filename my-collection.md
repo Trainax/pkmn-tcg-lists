@@ -39,7 +39,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | Breloom | 005/264 | Erba Fase 1 | Unlimited | Non Comune |  |
 | Huntail | 066/264 | Acqua Fase 1 | Unlimited | Rara |  |
 | Wooloo | 222/264 | Incolore Base | Unlimited | Comune |  |
-| Scambiatore Incrociato | 230/264 | Allenatore - Strumento | Non Comune |  |
+| Scambiatore Incrociato | 230/264 | Allenatore - Strumento | Unlimited | Non Comune |  |
 
 
 ### Regno Glaciale
