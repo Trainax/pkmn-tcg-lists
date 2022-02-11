@@ -30,6 +30,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 | Bulbasaur | 1/108 | Unlimited | Esploratori delle Tenebre | 1 | |
 | Snivy | 1/114 | Unlimited | Nero e Bianco | 1 |  |
 | Deerling | 13/114 | Unlimited | Nero e Bianco | 4 |  |
+| Hoppip | 002/203 | Unlimited | Evoluzioni Eteree | 1 |  |
 
 ### Fuoco
 
@@ -71,6 +72,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
 | Scraggy | 67/108 | Unlimited | Esploratori delle Tenebre | 1 |  |
+| Zorua | 102/203 | Unlimited | Evoluzioni Eteree | 1 |  |
 
 ### Metallo
 
@@ -85,6 +87,7 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 | Lillipup | 81/114 | Unlimited | Nero e Bianco | 1 |  |
 | Pidove | 84/114 | Unlimited | Nero e Bianco | 3 |  |
 | Bouffalant | 90/114 | Unlimited | Nero e Bianco | 1 |  |
+| Buneary | 212/264 | Unlimited | Colpo Fusione | 1 |  |
 
 ### Folletto
 
@@ -112,7 +115,10 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Energia Erba | - | Non-holo | Energie Spada e Scudo | 2 |  |
-| Energia Metallo | - | Non-holo | Energie Spada e Scudo | 4 |  |
-| Energia Oscurità | - | Non-holo | Energie Spada e Scudo | 1 |  |
+| Energia Erba | - | Non-holo | Energie Spada e Scudo | 4 |  |
+| Energia Fuoco | - | Non-holo | Energie Spada e Scudo | 2 |  |
+| Energia Acqua | - | Non-holo | Energie Spada e Scudo | 1 |  |
+| Energia Lampo | - | Non-holo | Energie Spada e Scudo | 1 |  |
 | Energia Lotta | - | Non-holo | Energie Spada e Scudo | 2 |  |
+| Energia Oscurità | - | Non-holo | Energie Spada e Scudo | 2 |  |
+| Energia Metallo | - | Non-holo | Energie Spada e Scudo | 4 |  |

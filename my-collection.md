@@ -8,6 +8,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 
 - [Serie Spada & Scudo](#serie-spada--scudo)
   - [Colpo Fusione](#colpo-fusione)
+  - [Evoluzioni Eteree](#evoluzioni-eteree)
   - [Regno Glaciale](#regno-glaciale)
   - [Voltaggio Sfolgorante](#voltaggio-sfolgorante)
   - [Fiamme Oscure](#fiamme-oscure)
@@ -37,10 +38,36 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | Nome | Numero | Tipo | Variante | Rarità | Note |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | Breloom | 005/264 | Erba Fase 1 | Unlimited | Non Comune |  |
+| Growlithe | 032/264 | Fuoco Base | Unlimited | Comune |  |
+| Shellder | 050/264 | Acqua Base | Unlimited | Comune |  |
+| Totodile | 055/264 | Acqua Base | Unlimited | Comune |  |
 | Huntail | 066/264 | Acqua Fase 1 | Unlimited | Rara |  |
+| Tynamo | 095/264 | Lampo Base | Unlimited | Comune |  |
+| Toxel | 106/264 | Lampo Base | Unlimited | Comune |  |
+| Geodude | 135/264 | Lotta Base | Unlimited | Comune |  |
+| Bewear | 151/264 | Lotta Fase 1 | Unlimited | Non Comune |  |
+| Clobbopus | 152/264 | Lotta Base | Unlimited | Comune |  |
+| Buneary | 212/264 | Incolore Base | Unlimited | Comune |  |
 | Wooloo | 222/264 | Incolore Base | Unlimited | Comune |  |
 | Scambiatore Incrociato | 230/264 | Allenatore - Strumento | Unlimited | Non Comune |  |
 
+### Evoluzioni Eteree
+
+| Nome | Numero | Tipo | Variante | Rarità | Note |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| Hoppip | 002/203 | Erba Base | Unlimited | Comune |  |
+| Tropius | 006/203 | Erba Base | Unlimited | Rara |  |
+| Petilil | 009/203 | Erba Base | Unlimited | Comune |  |
+| Gossifleur | 015/203 | Erba Base | Unlimited | Comune |  |
+| Cryogonal | 043/203 | Acqua Base | Unlimited | Comune |  |
+| Flaaffy | 055/203 | Lampo Fase 1 | Unlimited | Non Comune |  |
+| Emolga | 057/203 | Lampo Base | Unlimited | Comune |  |
+| Woobat | 068/203 | Psico Base | Unlimited | Comune |  |
+| Zorua | 102/203 | Oscurità Base | Unlimited | Comune |  |
+| Altaria | 106/203 | Drago Fase 1 | Unlimited | Rara |  |
+| Swablu | 132/203 | Incolore Base | Unlimited | Comune |  |
+| Rufflet | 136/203 | Incolore Base | Unlimited | Comune |  |
+| Medaglia Fiocco | 155/203 | Allenatore - Strumento | Unlimited | Non Comune |  |
 
 ### Regno Glaciale
 
