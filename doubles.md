@@ -27,39 +27,39 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Bulbasaur | 1/108 | Unlimited | Esploratori delle Tenebre | 1 | |
-| Snivy | 1/114 | Unlimited | Nero e Bianco | 1 |  |
-| Deerling | 13/114 | Unlimited | Nero e Bianco | 4 |  |
-| Hoppip | 002/203 | Unlimited | Evoluzioni Eteree | 1 |  |
+| Bulbasaur | 1/108 | Normal | Esploratori delle Tenebre | 1 | |
+| Snivy | 1/114 | Normal | Nero e Bianco | 1 |  |
+| Deerling | 13/114 | Normal | Nero e Bianco | 4 |  |
+| Hoppip | 002/203 | Normal | Evoluzioni Eteree | 1 |  |
 
 ### Fuoco
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Tepig | 15/114 | Unlimited | Nero e Bianco | 1 |  |
+| Tepig | 15/114 | Normal | Nero e Bianco | 1 |  |
 
 ### Acqua
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Piplup | 27/108 | Unlimited | Esploratori delle Tenebre | 1 |  |
-| Tympole | 044/192 | Unlimited | Fragore Ribelle | 1 |  |
-| Staryu | 75/101 | Unlimited | EX Leggende Nascoste | 1 |  |
+| Piplup | 27/108 | Normal | Esploratori delle Tenebre | 1 |  |
+| Tympole | 044/192 | Normal | Fragore Ribelle | 1 |  |
+| Staryu | 75/101 | Normal | EX Leggende Nascoste | 1 |  |
 
 ### Lampo
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Joltik | 45/114 | Unlimited | Nero e Bianco | 2 |  |
+| Joltik | 45/114 | Normal | Nero e Bianco | 2 |  |
 
 ### Psico
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Kirlia | 060/198 | Unlimited | Regno Glaciale | 1 |  |
-| Woobat | 50/114 | Unlimited | Nero e Bianco | 1 |  |
-| Espeon | 48/108 | Unlimited | Esploratori delle Tenebre | 1 |  |
-| Sinistea | 082/189 | Unlimited | Fiamme Oscure | 1 |  |
+| Kirlia | 060/198 | Normal | Regno Glaciale | 1 |  |
+| Woobat | 50/114 | Normal | Nero e Bianco | 1 |  |
+| Espeon | 48/108 | Normal | Esploratori delle Tenebre | 1 |  |
+| Sinistea | 082/189 | Normal | Fiamme Oscure | 1 |  |
 
 ### Lotta
 
@@ -71,8 +71,8 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Scraggy | 67/108 | Unlimited | Esploratori delle Tenebre | 1 |  |
-| Zorua | 102/203 | Unlimited | Evoluzioni Eteree | 1 |  |
+| Scraggy | 67/108 | Normal | Esploratori delle Tenebre | 1 |  |
+| Zorua | 102/203 | Normal | Evoluzioni Eteree | 1 |  |
 
 ### Metallo
 
@@ -84,10 +84,10 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Lillipup | 81/114 | Unlimited | Nero e Bianco | 1 |  |
-| Pidove | 84/114 | Unlimited | Nero e Bianco | 3 |  |
-| Bouffalant | 90/114 | Unlimited | Nero e Bianco | 1 |  |
-| Buneary | 212/264 | Unlimited | Colpo Fusione | 1 |  |
+| Lillipup | 81/114 | Normal | Nero e Bianco | 1 |  |
+| Pidove | 84/114 | Normal | Nero e Bianco | 3 |  |
+| Bouffalant | 90/114 | Normal | Nero e Bianco | 1 |  |
+| Buneary | 212/264 | Normal | Colpo Fusione | 1 |  |
 
 ### Folletto
 
@@ -107,9 +107,9 @@ Tutte le carte che ho da scambiare sono in ottimo stato con eventuali segni dovu
 
 | Nome | Numero | Variante | Espansione | Quantità | Note |
 | :--- | :---: | :--- | :--- | :---: | :--- |
-| Ultra Ball | 102/108 | Unlimited | Esploratori delle Tenebre | 2 |  |
-| Supermartello | 94/108 | Unlimited | Esploratori delle Tenebre | 2 |  |
-| Scambio di Energia | 94/114 | Unlimited | Nero e Bianco | 2 |  |
+| Ultra Ball | 102/108 | Normal | Esploratori delle Tenebre | 2 |  |
+| Supermartello | 94/108 | Normal | Esploratori delle Tenebre | 2 |  |
+| Scambio di Energia | 94/114 | Normal | Nero e Bianco | 2 |  |
 
 ### Energia
 

@@ -1,6 +1,6 @@
 # Dettagli su cosa sono interessato a comprare
 
-Sono interessato ad acquistare carte che non sono già presenti nel[la mia collezione](my-collection) e le varianti mancanti di carte già in mio possesso (quindi, ad esempio, la versione Reverse Holo di una carta che ho già in versione Unlimited e viceversa).
+Sono interessato ad acquistare carte che non sono già presenti nel[la mia collezione](my-collection) e le varianti mancanti di carte già in mio possesso (quindi, ad esempio, la versione Reverse Holo di una carta che ho già in versione Normal e viceversa).
 
 **Le carte devono soddisfare i seguenti requisiti:**
 
