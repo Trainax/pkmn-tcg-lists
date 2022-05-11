@@ -7,6 +7,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 ### Collegamenti rapidi alle espansioni presenti nella mia collezione
 
 - [Serie Spada & Scudo](#serie-spada--scudo)
+  - [Astri Lucenti](#astri-lucenti)
   - [Colpo Fusione](#colpo-fusione)
   - [Evoluzioni Eteree](#evoluzioni-eteree)
   - [Regno Glaciale](#regno-glaciale)
@@ -29,15 +30,61 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
   - [Neo Revelation](#neo-revelation)
   - [Neo Discovery](#neo-discovery)
 - [Energie non numerate](#energie-non-numerate)
+  - [Energie Astri Lucenti](#energie-astri-lucenti)
   - [Energie Spada & Scudo](#energie-spada--scudo)
 
 ## Serie Spada & Scudo
+
+### Astri Lucenti
+
+| Nome | Numero | Tipo | Variante | Rarità | Note |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| Exeggcute | 001/172 | Erba Base | Normal | Comune |  |
+| Exeggutor | 002/172 | Erba Fase 1 | Normal | Non Comune |  |
+| Grotle | 007/172 | Erba Fase 1 | Normal | Non Comune |  |
+| Chimchar | 024/172 | Fuoco Base | Normal | Comune |  |
+| Snorunt | 034/172 | Acqua Base | Normal | Comune |  |
+| Pansear | 037/172 | Fuoco Base | Normal | Comune |  |
+| Cubchoo | 042/172 | Acqua Base | Normal | Comune |  |
+| Shinx | 049/172 | Lampo Base | Normal | Comune |  |
+| Pachirisu | 052/172 | Lampo Base | Reverse Holo | Non Comune |  |
+| Clefairy | 053/172 | Psico Base | Normal | Comune |  |
+| Starmie | 055/172 | Psico Fase 1 | Normal | Non Comune |  |
+| Mewtwo | 056/172 | Psico Base | Normal | Rara |  |
+| Baltoy | 058/172 | Psico Base | Normal | Comune |  |
+| Dusclops | 061/172 | Psico Fase 1 | Normal | Non Comune |  |
+| Sigilyph | 066/172 | Psico Base | Normal | Non Comune |  |
+| Dedenne | 067/172 | Psico Base | Normal | Comune |  |
+| Milcery | 070/172 | Psico Base | Normal | Comune |  |
+| Nosepass | 073/172 | Lotta Base | Normal | Comune |  |
+| Riolu | 078/172 | Lotta Base | Normal | Comune |  |
+| Sawk | 081/172 | Lotta Base | Normal | Comune |  |
+| Golett | 082/172 | Lotta Base | Normal | Comune |  |
+| Grimer | 084/172 | Oscurità Base | Normal | Comune |  |
+| Weavile | 087/172 | Oscurità Fase 1 | Normal | Non Comune |  |
+| Spiritomb | 089/172 | Oscurità Base | Normal | Comune |  |
+| Purrloin | 090/172 | Oscurità Base | Normal | Comune |  |
+| Impidimp | 092/172 | Oscurità Base | Normal | Comune |  |
+| Morgrem | 093/172 | Oscurità Fase 1 | Normal | Non Comune |  |
+| Fraxure | 111/172 | Drago Fase 1 | Normal | Non Comune |  |
+| Gabite | 108/172 | Drago Fase 1 | Normal | Non Comune |  |
+| Farfetch'd | 115/172 | Incolore Base | Normal | Comune |  |
+| Castform | 116/172 | Incolore Base | Normal | Comune |  |
+| Starly | 117/172 | Incolore Base | Normal | Comune |  |
+| Minccino | 124/172 | Incolore Base | Normal | Comune |  |
+| Barry | 130/172 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Amici a Galar | 140/172 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Gloria |141/172 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Tifo del Team Yell | 149/172 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Dusknoir | TG06/TG30 | Psico Fase 2 | Normal | Rara Holo |  |
 
 ### Colpo Fusione
 
 | Nome | Numero | Tipo | Variante | Rarità | Note |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | Breloom | 005/264 | Erba Fase 1 | Normal | Non Comune |  |
+| Grubbin | 018/264 | Erba Base | Normal | Comune |  |
+| Eldegoss | 025/264 | Erba Fase 1 | Normal | Non Comune |  |
 | Growlithe | 032/264 | Fuoco Base | Normal | Comune |  |
 | Shellder | 050/264 | Acqua Base | Normal | Comune |  |
 | Totodile | 055/264 | Acqua Base | Normal | Comune |  |
@@ -47,9 +94,11 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | Geodude | 135/264 | Lotta Base | Normal | Comune |  |
 | Bewear | 151/264 | Lotta Fase 1 | Normal | Non Comune |  |
 | Clobbopus | 152/264 | Lotta Base | Normal | Comune |  |
+| Goomy | 195/264 | Drago Base | Normal | Comune |  |
 | Buneary | 212/264 | Incolore Base | Normal | Comune |  |
 | Wooloo | 222/264 | Incolore Base | Normal | Comune |  |
 | Scambiatore Incrociato | 230/264 | Allenatore - Strumento | Normal | Non Comune |  |
+| Compressa Energetica | 236/264 | Allenatore - Strumento | Normal | Non Comune |  |
 
 ### Evoluzioni Eteree
 
@@ -83,6 +132,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | Slurpuff | 068/198 | Psico Fase 1 | Normal | Rara |  |
 | Hatenna | 071/198 | Psico Base | Normal | Comune |  |
 | Farfetch'd di Galar | 078/198 | Lotta Base | Normal | Comune |  |
+| Kubfu | 093/198 | Lotta Base | Normal | Comune |  |
 | Koffing | 094/198 | Oscurità Base | Normal | Comune |  |
 | Corno Echeggiante | 136/198 | Allenatore - Strumento | Normal | Non Comune |  |
 | Cristallo di Bruma | 140/198 | Allenatore - Strumento | Normal | Non Comune |  |
@@ -261,6 +311,16 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | Unown [A] | 14/75 | Psico Base | Normal | Rara Holo |  |
 
 ## Energie non numerate
+
+### Energie Astri Lucenti
+
+| Nome | Numero | Tipo | Variante | Rarità | Note |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| Energia Erba | - | Energia Base | Non-holo | - |  |
+| Energia Fuoco | - | Energia Base | Non-holo | - |  |
+| Energia Lampo | - | Energia Base | Non-holo | - |  |
+| Energia Psico | - | Energia Base | Non-holo | - |  |
+| Energia Oscurità | - | Energia Base | Non-holo | - |  |
 
 ### Energie Spada & Scudo
 
