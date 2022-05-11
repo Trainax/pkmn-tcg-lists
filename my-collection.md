@@ -25,7 +25,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
   - [EX Smeraldo](#ex-smeraldo)
   - [EX Deoxys](#ex-deoxys)
   - [EX Leggende Nascoste](#ex-leggende-nascoste)
-  - [Ex Drago](#ex-drago)
+  - [EX Drago](#ex-drago)
 - [Serie Neo](#serie-neo)
   - [Neo Revelation](#neo-revelation)
   - [Neo Discovery](#neo-discovery)
