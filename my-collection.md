@@ -7,6 +7,7 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 ### Collegamenti rapidi alle espansioni presenti nella mia collezione
 
 - [Serie Spada & Scudo](#serie-spada--scudo)
+  - [Lucentezza Siderale](#lucentezza-siderale)
   - [Astri Lucenti](#astri-lucenti)
   - [Colpo Fusione](#colpo-fusione)
   - [Evoluzioni Eteree](#evoluzioni-eteree)
@@ -34,6 +35,86 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
   - [Energie Spada & Scudo](#energie-spada--scudo)
 
 ## Serie Spada & Scudo
+
+### Lucentezza Siderale
+
+| Nome | Numero | Tipo | Variante | Rarità | Note |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| Voltorb di Hisui | 002/189 | Erba Base | Normal | Comune |  |
+| Electrode di Hisui | 003/189 | Erba Fase 1 | Normal | Non Comune |  |
+| Scyther | 004/189 | Erba Base | Normal | Comune |  |
+| Scyther | 005/189 | Erba Base | Normal | Comune |  |
+| Yanma | 006/189 | Erba Base | Normal | Comune |  |
+| Yanmega | 007/189 | Erba Fase 1 | Normal | Non Comune |  |
+| Heracross | 008/189 | Erba Base | Normal | Comune |  |
+| Kricketot | 009/189 | Erba Base | Normal | Comune |  |
+| Combee | 011/189 | Erba Base | Normal | Comune |  |
+| Petilil | 015/189 | Erba Base | Normal | Comune |  |
+| Rowlet | 019/189 | Erba Base | Normal | Comune |  |
+| Ponyta | 021/189 | Fuoco Base | Normal | Comune |  |
+| Ponyta | 021/189 | Fuoco Base | Reverse Holo | Comune |  |
+| Cyndaquil | 023/189 | Fuoco Base | Normal | Comune |  |
+| Psyduck | 028/189 | Acqua Base | Normal | Comune |  |
+| Golduck | 029/189 | Acqua Fase 1 | Normal | Non Comune |  |
+| Swinub | 031/189 | Acqua Base | Normal | Comune |  |
+| Piloswine | 032/189 | Acqua Fase 1 | Normal | Non Comune |  |
+| Mantine | 034/189 | Acqua Base | Normal | Comune |  |
+| Barboach | 035/189 | Acqua Base | Normal | Comune |  |
+| Whiscash | 036/189 | Acqua Fase 1 | Normal | Non Comune |  |
+| Oshawott | 041/189 | Acqua Base | Normal | Comune |  |
+| Basculin di Hisui | 043/189 | Acqua Base | Normal | Comune |  |
+| Bergmite | 047/189 | Acqua Base | Normal | Comune |  |
+| Togepi | 055/189 | Psico Base | Normal | Comune |  |
+| Misdreavus | 058/189 | Psico Base | Normal | Comune |  |
+| Mismagius | 059/189 | Psico Fase 1 | Normal | Rara |  |
+| Ralts | 060/189 | Psico Base | Normal | Comune |  |
+| Drifloon | 063/189 | Psico Base | Normal | Comune |  |
+| Drifblim | 064/189 | Psico Fase 1 | Normal | Non Comune |  |
+| Uxie | 065/189 | Psico Base | Normal | Non Comune |  |
+| Azelf | 067/189 | Psico Base | Normal | Non Comune |  |
+| Growlithe di Hisui | 070/189 | Lotta Base | Normal | Comune |  |
+| Arcanine di Hisui | 071/189 | Lotta Fase 1 | Normal | Rara |  |
+| Sudowoodo | 074/189 | Lotta Base | Normal | Comune |  |
+| Regirock | 075/189 | Lotta Base | Normal | Rara |  |
+| Cranidos | 076/189 | Lotta Fase 1 | Normal | Non Comune |  |
+| Hippopotas | 079/189 | Lotta Base | Normal | Comune |  |
+| Kleavor | 085/189 | Lotta Fase 1 | Reverse Holo | Rara |  |
+| Qwilfish di Hisui | 088/189 | Oscurità Base | Normal | Comune |  |
+| Qwilfish di Hisui | 089/189 | Oscurità Base | Normal | Comune |  |
+| Overqwil di Hisui | 090/189 | Oscurità Fase 1 | Normal | Non Comune |  |
+| Sneasel di Hisui | 092/189 | Oscurità Base | Normal | Comune |  |
+| Poochyena | 095/189 | Oscurità Base | Normal | Comune |  |
+| Nickit | 103/189 | Oscurità Base | Normal | Comune |  |
+| Magnemite | 105/189 | Metallo Base | Normal | Comune |  |
+| Magneton | 106/189 | Metallo Fase 1 | Normal | Non Comune |  |
+| Shieldon | 109/189 | Metallo Fase 1 | Normal | Non Comune |  |
+| Bronzor | 111/189 | Metallo Base | Normal | Comune |  |
+| Bronzong | 112/189 | Metallo Fase 1 | Reverse Holo | Non Comune |  |
+| Pawniard | 115/189 | Metallo Base | Normal | Comune |  |
+| Eevee | 119/189 | Incolore Base | Normal | Comune |  |
+| Hoothoot | 120/189 | Incolore Base | Normal | Comune |  |
+| Teddiursa | 122/189 | Incolore Base | Normal | Comune |  |
+| Ursaring | 123/189 | Incolore Fase 1 | Normal | Comune |  |
+| Stantler | 125/189 | Incolore Base | Normal | Comune |  |
+| Glameow | 127/189 | Incolore Base | Normal | Comune |  |
+| Purugly | 128/189 | Incolore Fase 1 | Normal | Comune |  |
+| Chatot | 129/189 | Incolore Base | Normal | Comune |  |
+| Rufflet | 131/189 | Incolore Base | Normal | Comune |  |
+| Braviary di Hisui | 132/189 | Incolore Fase 1 | Normal | Rara |  |
+| Colonia di Annullamento | 136/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Choi | 137/189 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Selina | 138/189 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Lotteria Energia | 140/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Piuma Ball | 141/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Palude Boccalarga | 142/189 | Allenatore - Stadio | Normal | Non Comune |  |
+| Vigore di Gardenia | 143/189 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Peso Ball di Hisui | 146/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Soruan | 149/189 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Petra | 150/189 | Allenatore - Aiuto | Normal | Non Comune |  |
+| Curry piccante alle spezie | 151/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Miele | 153/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Carretto di Scambio | 154/189 | Allenatore - Strumento | Normal | Non Comune |  |
+| Tempio di Sinnoh | 155/189 | Allenatore - Stadio | Normal | Non Comune |  |
 
 ### Astri Lucenti
 
@@ -318,9 +399,12 @@ Colleziono tutte le varianti di tutte le carte. Sono quindi interessato ad aggiu
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | Energia Erba | - | Energia Base | Non-holo | - |  |
 | Energia Fuoco | - | Energia Base | Non-holo | - |  |
+| Energia Acqua | - | Energia Base | Non-holo | - |  |
 | Energia Lampo | - | Energia Base | Non-holo | - |  |
 | Energia Psico | - | Energia Base | Non-holo | - |  |
+| Energia Lotta | - | Energia Base | Non-holo | - |  |
 | Energia Oscurità | - | Energia Base | Non-holo | - |  |
+| Energia Metallo | - | Energia Base | Non-holo | - |  |
 
 ### Energie Spada & Scudo
 
